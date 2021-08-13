@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ElkStackApplication
+
+server:  port: 9898
+  
+logging:  file:    name: C:\Users\infyshine\Desktop\logselk-stack.log
